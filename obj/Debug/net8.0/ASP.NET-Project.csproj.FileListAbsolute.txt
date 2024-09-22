@@ -1,0 +1,414 @@
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\appsettings.Development.json
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\appsettings.json
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.staticwebassets.runtime.json
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.exe
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.deps.json
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.runtimeconfig.json
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.pdb
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.AssemblyInfoInputs.cache
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.AssemblyInfo.cs
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.csproj.CoreCompileInputs.cache
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.MvcApplicationPartsAssemblyInfo.cache
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.RazorAssemblyInfo.cache
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.RazorAssemblyInfo.cs
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.sourcelink.json
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET-Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET-Project.props
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET-Project.props
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET-Project.props
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\scopedcss\bundle\ASP.NET-Project.styles.css
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.dll
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\refint\ASP.NET-Project.dll
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.pdb
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.genruntimeconfig.cache
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ref\ASP.NET-Project.dll
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET-Project.bundle.scp.css
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Azure.Core.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Azure.Identity.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Humanizer.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.CodeDom.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Memory.Data.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\xampp4\htdocs\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.csproj.AssemblyReference.cache
+D:\xampp4\htdocs\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-.BB937707.Up2Date
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\appsettings.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.staticwebassets.runtime.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.exe
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.deps.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.runtimeconfig.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ASP.NET-Project.pdb
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Azure.Core.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Azure.Identity.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Humanizer.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.CodeDom.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.csproj.AssemblyReference.cache
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.AssemblyInfoInputs.cache
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.AssemblyInfo.cs
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.csproj.CoreCompileInputs.cache
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.RazorAssemblyInfo.cache
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.RazorAssemblyInfo.cs
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.sourcelink.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET-Project.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET-Project.props
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET-Project.props
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET-Project.props
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\scopedcss\bundle\ASP.NET-Project.styles.css
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET-Project.bundle.scp.css
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-.BB937707.Up2Date
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\refint\ASP.NET-Project.dll
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.pdb
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ASP.NET-Project.genruntimeconfig.cache
+c:\Users\jomek\OneDrive\Desktop\C#\ASP.NET-Project\obj\Debug\net8.0\ref\ASP.NET-Project.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\appsettings.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ASP.NET-Project.staticwebassets.runtime.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ASP.NET-Project.exe
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ASP.NET-Project.deps.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ASP.NET-Project.runtimeconfig.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ASP.NET-Project.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ASP.NET-Project.pdb
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.csproj.AssemblyReference.cache
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.AssemblyInfoInputs.cache
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.AssemblyInfo.cs
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.csproj.CoreCompileInputs.cache
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.RazorAssemblyInfo.cache
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.RazorAssemblyInfo.cs
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.sourcelink.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET-Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET-Project.props
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET-Project.props
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET-Project.props
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\scopedcss\bundle\ASP.NET-Project.styles.css
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET-Project.bundle.scp.css
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-.BB937707.Up2Date
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\refint\ASP.NET-Project.dll
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.pdb
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ASP.NET-Project.genruntimeconfig.cache
+C:\Users\jomek\OneDrive\Desktop\C#\ASP.NET Project - Task Managment System\obj\Debug\net8.0\ref\ASP.NET-Project.dll
